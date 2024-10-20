@@ -1,0 +1,13 @@
+.destination-item-container {
+  list-style-type: none;
+  width: 250px;
+  margin: 20px;
+}
+.image {
+  width: 250px;
+  height: 180px;
+}
+
+.name {
+  color: #000000;
+}
